@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1575935375495" clover="3.2.0">
-  <project timestamp="1575935375495" name="All files">
-    <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="11" coveredelements="11" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
+<coverage generated="1575937720937" clover="3.2.0">
+  <project timestamp="1575937720937" name="All files">
+    <metrics statements="10" coveredstatements="10" conditionals="5" coveredconditionals="2" methods="2" coveredmethods="2" elements="17" coveredelements="14" complexity="0" loc="10" ncloc="10" packages="1" files="2" classes="2"/>
+    <file name="createResponse.js" path="C:\Users\user\alchemy\bootcamp-three\week-two\labs\HTTP-with-net\lib\utils\createResponse.js">
+      <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="0" falsecount="3"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
     <file name="parseRequest.js" path="C:\Users\user\alchemy\bootcamp-three\week-two\labs\HTTP-with-net\lib\utils\parseRequest.js">
       <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
